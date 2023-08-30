@@ -108,8 +108,8 @@ small {
     color: #808168;
 }
 
-.nav-top link a:hover,
-.nav-top li .current {
+.nav-top link>a:hover,
+.nav-top li>a:active  {
     color: red;
 }
 
@@ -258,8 +258,8 @@ small {
 }
 
 .columna-derecha-articulo-imagen img {
-    width: 100px;
-    height: 100px;
+    width: 50%;
+    height: 50%;
     align-self: center;
 }
 
@@ -308,7 +308,7 @@ small {
 }
 
 .footer-flex-caja {
-    padding: 5% 5% 0% 5%; 
+    padding: 0% 5% 0% 5%; 
 }
 
 .footer-flex-caja h4 {
