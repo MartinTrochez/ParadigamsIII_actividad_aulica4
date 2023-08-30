@@ -54,6 +54,7 @@ small {
     height: 50%;
     align-self: center;
     flex: 2;
+    padding-left: 10%;
 }
 
 .sitio-nombre h1 {
